@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DashClock Episode Reminder</string>
+    <string name="app_name">Episode Reminder</string>
+    <string name="app_description">Keep track of what episode you last watched</string>
 </resources>
